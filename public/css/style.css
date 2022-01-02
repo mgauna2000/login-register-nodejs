@@ -179,10 +179,12 @@ body{
 }
 
 .register-form h1 {
+  font-family: 'Cinzel Decorative', cursive;
   text-align: left;
   color:midnightblue ;
-  font-size: 22px;
-  padding: 70px 0 10px 0;
+  font-size: 28px;
+  padding: 50px 0 10px 0;
+  text-align: center;
 }
 .register-form input[type="password"],
 .register-form input[type="text"] {
