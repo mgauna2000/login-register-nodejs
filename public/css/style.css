@@ -32,6 +32,7 @@ body{
 .btn-login{
   width: 100%;
   padding: 15px;
+  font-family: 'Cinzel Decorative', cursive;
   background-color: #6f42c1;
   border: 0;
   box-sizing: border-box;
@@ -53,6 +54,7 @@ body{
 .btn-register{
   width: 100%;
   padding: 15px;
+  font-family: 'Cinzel Decorative', cursive;
   background-color: #34D399;
   border: 0;
   box-sizing: border-box;
@@ -115,6 +117,7 @@ body{
 .btn-cancel{
   width: 50%;
   padding: 15px;
+  font-family: 'Cinzel Decorative', cursive;
   background-color: #9CA3AF;
   border: 0;
   box-sizing: border-box;
@@ -144,6 +147,7 @@ body{
 .btn-save{
   width: 50%;
   padding: 15px;
+  font-family: 'Cinzel Decorative', cursive;
   background-color: #1D4ED8;
   border: 0;
   box-sizing: border-box;
@@ -175,7 +179,8 @@ body{
   margin-top: 35px;
   font-family: roboto;  
   text-align: left !important;
- box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22); 
+  font-size: 18px;
+  box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22); 
 }
 
 .register-form h1 {
